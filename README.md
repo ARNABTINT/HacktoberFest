@@ -1,6 +1,6 @@
-# HacktoberFest- Contribute to Open-Source.
+#  HacktoberFest- Contribute to Open-Source.
 
-Create your first Pull Request 🔥(PR) and help contributing to open-source and help everyone with this repository.
+Create your first Pull Request 🔥 (PR) and help contributing to open-source and help everyone with this repository.
 
 Before Contributing to the Repository, Please Subscribe my channel and help me reach 1K Subscribers. Subscribe here- https://www.youtube.com/channel/UCOykz3Ssp3Q1SHPG8Mqj7PA
 
